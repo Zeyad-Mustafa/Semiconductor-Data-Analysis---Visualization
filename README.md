@@ -32,8 +32,8 @@ This project provides a simple, beginner-friendly workflow for **analyzing and v
 
 - Python 3.x
 - Required libraries:
-  - `pandas`
-  - `matplotlib`
+  - pandas
+  - matplotlib
 
 Install dependencies with:
 
@@ -41,12 +41,12 @@ Install dependencies with:
 
 ### Running the Analysis
 
-1. Place your data file (`wafer_data.csv`) in the project root directory.
+1. Place your data file (wafer_data.csv) in the project root directory.
 2. Run the analysis script: main.py
 
 3. The script will:
 - Print basic statistics to the terminal
-- Generate and save two plots in the `images/` folder
+- Generate and save two plots in the images/ folder
 
 ## Results
 
@@ -64,15 +64,15 @@ This line plot displays how the defect count changes over time, making it easier
 
 ## How It Works
 
-- The script reads the CSV file using `pandas`
+- The script reads the CSV file using pandas
 - It calculates statistics such as average yield and maximum defect count
-- `matplotlib` is used to create and save the plots
-- All outputs are saved in the `images/` directory for easy access
+- matplotlib is used to create and save the plots
+- All outputs are saved in the images/ directory for easy access
 
 ## Customization
 
 - You can modify the script to analyze different columns or add new types of visualizations
-- For larger datasets or more advanced analysis, consider integrating additional Python libraries such as `numpy` or `plotly`
+- For larger datasets or more advanced analysis, consider integrating additional Python libraries such as numpy or plotly
 
 ## Credits & Acknowledgements
 
