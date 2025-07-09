@@ -6,13 +6,13 @@ This project provides a simple, beginner-friendly workflow for **analyzing and v
 
 ## Project Structure
 
-/
-├── wafer_data.csv
-├── analysis.py
-├── images/
-│ ├── Defect-Count-Over-Time.png
-│ └──Yield-Percentage-per-wafer.png
-└── README.md
+/  <br /> 
+├── wafer_data.csv  <br /> 
+├── analysis.py  <br /> 
+├── images/  <br /> 
+│ ├── Defect-Count-Over-Time.png  <br /> 
+│ └──Yield-Percentage-per-wafer.png  <br /> 
+└── README.md  <br /> 
 
 - **wafer_data.csv**: Example dataset of wafer production (date, wafer ID, yield percentage, defect count)
 - **analysis.py**: Python script for data analysis and visualization
