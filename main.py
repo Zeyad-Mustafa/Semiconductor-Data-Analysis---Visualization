@@ -7,7 +7,7 @@ import numpy as np
 # Set style for better-looking plots
 plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
-
+ 
 class WaferAnalyzer:
     def __init__(self, csv_file):
         """Initialize the analyzer with data from CSV file."""
