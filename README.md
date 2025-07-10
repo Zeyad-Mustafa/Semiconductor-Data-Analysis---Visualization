@@ -149,7 +149,7 @@ Potential areas for further development:
 
 Created by **Zeyad Mustafa**
 
-*Enhanced with professional-grade analytics and visualization capabilities for semiconductor manufacturing quality control.* 
+*Enhanced with professional grade analytics and visualization capabilities for semiconductor manufacturing quality control.* 
 
 
 
