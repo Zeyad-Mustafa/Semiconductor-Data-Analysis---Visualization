@@ -1,2 +1,4 @@
-matplotlib
 pandas
+matplotlib
+seaborn
+numpy
