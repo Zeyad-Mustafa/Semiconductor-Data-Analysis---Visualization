@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
 import numpy as np
-
+ 
 # Set style for better-looking plots
 plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
